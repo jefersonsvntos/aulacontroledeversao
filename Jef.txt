@@ -1,2 +1,0 @@
-Meu nome é Jeferson
-Controle de versão com git e github
